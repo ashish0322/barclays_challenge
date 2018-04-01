@@ -5,7 +5,7 @@ Problem 3 Inventory Management 1
 The project is developed using Spring Boot, Java8, Hibernate, InMemory H2 Database using Eclipse as IDE
 
 # Build the Jar
-Project Jar is built using Maven Build in Eclipse or IntelliJ 
+Project Jar can be built using Maven Build in Eclipse or IntelliJ 
 
 # Running the Jar
 The java jar can be run from console using the below command
