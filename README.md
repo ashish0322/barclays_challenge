@@ -32,19 +32,7 @@ updateSell Food01 1
 updateSell Tab01 2
 
 # Report 
-report command will produce a output similar to the below
-
-INVENTORY REPORT
-Item Name 	Bought At    	Sold At       	AvailableQty    	Value
---------- 	---------    	-------       	-----------     	-------
-Book01    	10.50          	13.79               	100    	1050.00
-Food01     	1.47           	3.98               	498     	732.06
-Med01     	30.63          	34.29               	100    	3063.00
-Tab01     	57.00          	84.98                	96    	5472.00
----------------------------------------------------------------------------
-Total value                                                     	10317.06
-Profit since previous report                                      	116.94
-
+report command will generate report
 
 # Design 
 Followed MVC desin pattern and SOA 
