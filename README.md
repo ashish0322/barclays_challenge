@@ -2,21 +2,22 @@
 Problem 3 Inventory Management 1
 
 # Development
+```
 The project is developed using 
   Spring Boot
   Java8
   Hibernate
   InMemory H2 Database 
   using Eclipse as IDE
-
+```
 # Build the Jar
 Project Jar can be built using Maven Build in Eclipse or IntelliJ 
 
 # Running the Jar
 The java jar can be run from console using the below command
-
+```
 java -jar <project-filename>.jar
-
+```
 Sample Input
 ```
 create Book01 10.50 13.79
@@ -50,7 +51,7 @@ Profit since previous report                                      	116.94
 ```
 
 # Design 
-Followed MVC desin pattern and SOA 
+Followed MVC design pattern and SOA 
 
 # Model
 Store and Items are the Business Objects
