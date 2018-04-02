@@ -72,6 +72,10 @@ Profit since previous report                                      	116.94
 
 # Design 
 Followed MVC design pattern and SOA 
+```
+Profit Calculation : I have used a property 'profit' for storing profit value inside store class, calculated and updated the profie value inside the database whenever there is a sell or delete item transaction is performed. By doing so I have handled the correct profit calculation despite change in the selling price.
+
+```
 
 # Model
 Store and Items are the Business Objects
