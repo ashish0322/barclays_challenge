@@ -14,7 +14,9 @@ import com.ashish.store.inventorymanagement.domain.Store;
 
 /**
  * @author Ashish Maheedhara
- *
+ *	Repository that handles the database transactions
+ * 	Stores and retrieves the items data from the relational database
+ * 	using entity manager and hibernate
  */
 @Repository
 @Transactional

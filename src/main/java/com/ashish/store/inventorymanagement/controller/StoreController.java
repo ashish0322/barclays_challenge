@@ -17,6 +17,8 @@ import org.springframework.stereotype.Component;
 @Component
 public class StoreController {
 
+	/* Controller that handles the input requests from the user */
+
 	@Autowired
 	private InventoryService inventoryService;
 

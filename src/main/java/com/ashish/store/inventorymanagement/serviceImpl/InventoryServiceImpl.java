@@ -179,7 +179,7 @@ public class InventoryServiceImpl implements InventoryService{
 				storeRepository.updateItem(item);
 			}
 			catch(Exception e){
-				System.out.println("Failed to update quantity of  item"+e);
+				System.out.println("Failed to update selling price of  item"+e);
 			}
 		}
 	}

@@ -13,7 +13,7 @@ import org.springframework.stereotype.Component;
  */
 @Component
 public class InputValidator {
-
+	/* Validates user console input for null values and non string values for Number variables*/
 	public boolean validateInput(String[] userInput){
 	  switch (userInput[0]) {
 		case "create":

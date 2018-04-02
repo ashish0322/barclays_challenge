@@ -10,7 +10,7 @@ import com.ashish.store.inventorymanagement.domain.Store;
 
 /**
  * @author Ashish Maheedhara
- *
+ *	Service that helps controller processing the request of the user
  */
 public interface InventoryService {
 	

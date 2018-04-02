@@ -11,7 +11,7 @@ import com.ashish.store.inventorymanagement.repository.StoreRepository;
 
 /**
  * @author Ashish Maheedhara
- *
+ *	StoreInitilizr helps in initilizing singleton store object
  */
 @Component
 public class StoreInitializr {
